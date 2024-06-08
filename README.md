@@ -101,3 +101,6 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 ?>
+```
+This project is designed to facilitate the management of doctor appointments online. It includes functionalities for user registration, login, booking appointments, and viewing appointment history. Doctors can manage their appointments and view patient details. The system is built using PHP for backend operations, HTML/CSS for frontend design, and MySQL for database management.
+## Thanks !!
